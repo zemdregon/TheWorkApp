@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Theme Idea",
+    "\\Theme Idea\\src"
   ],
-  "SelectedNode": "\\ladydadeda.txt",
+  "SelectedNode": "\\Theme Idea\\src\\BlackPresetServiceProvider.php",
   "PreviewInSolutionExplorer": false
 }
